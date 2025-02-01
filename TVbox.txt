@@ -228,7 +228,6 @@ CCTV17,http://tvpull.careryun.com/tv/cctv17.m3u8
 
 优漫卡通,http://175.10.230.91:8081/tsfile/live/1006_1.m3u8
 
-嘉佳卡通,http://183.255.10.90:6610/200000001898/460000089800010102/1.m3u8?IASHttpSessionId=OTT
 
 
 
